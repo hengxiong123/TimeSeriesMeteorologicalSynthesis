@@ -1,0 +1,5 @@
+airDensity	   1.225	25
+airHeight     80
+towerExtremWindSpeed  25.8  25.8
+turbineDiameter 	106	110
+turbineDiameterIndx  1 1 0 1 0 1 0 0 0 1 0 0 1 1 0 1 0 0 1 0 0 1 1 1
